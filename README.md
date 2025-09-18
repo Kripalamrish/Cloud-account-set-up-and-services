@@ -20,6 +20,25 @@ To create a free cloud account on Microsoft Azure and explore the cloud services
 10. End.
 
 ---
+### Services Provided By The Microsoft Azure 
+**1.Compute Services – where you run applications**
+
+1. Virtual Machines (VMs).
+2. App Services (web & mobile apps)
+3. Azure Functions (serverless)
+
+**2.Kubernetes Service (AKS)**
+
+1. Storage Services – where you keep data*
+2. Blob Storage (unstructured data like images, video)
+3. File Storage (file shares)
+
+**3.Queue Storage (messaging)**
+
+1. Disk Storage (persistent disks for VMs)
+2. Networking Services – connecting apps and users
+3. Virtual Network (VNet)
+
 
 ### *Procedure*
 
