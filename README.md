@@ -20,7 +20,7 @@ To create a free cloud account on Microsoft Azure and explore the cloud services
 10. End.
 
 ---
-### Services Provided By The Microsoft Azure 
+### Services Provided By The Microsoft Azure :
 **1.Compute Services – where you run applications**
 
 1. Virtual Machines (VMs).
